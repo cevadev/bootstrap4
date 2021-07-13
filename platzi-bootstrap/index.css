@@ -15,8 +15,8 @@ header img {
   background-color: #82ad36;
 }
 
-#header img {
-  width: 80px;
+.navbar-brand {
+  display: flex;
 }
 
 #main .carousel-inner img {
